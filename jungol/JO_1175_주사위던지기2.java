@@ -3,7 +3,7 @@ package algo_basic.hw;
 import java.util.Scanner;
 
 /**
- * @author 서정하
+ * @author rodash3
  * @since 2020. 1. 29.
  * @see http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=458&sca=99&sfl=wr_subject&stx=%EC%A3%BC%EC%82%AC%EC%9C%84
  * @memory 19MB

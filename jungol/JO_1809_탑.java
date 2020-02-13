@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * @author 서정하
+ * @author rodash3
  * @since 2020. 2. 3.
  * @see http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1082&sca=3020
  * @memory 30mb

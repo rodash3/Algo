@@ -50,7 +50,7 @@ public class BJ_3109_G2_빵집 {
 			int nr = r + dx[i];
 			int nc = c + dy[i];
 			if(isIn(nr, nc) && !space[nr][nc]) {
-				if(!flag)
+				if(!flag) // 가장 위쪽 경로를 하나 찾았으면 그 뒤로는 탐색하지 않음
 					dfs(nr, nc);
 			}
 		}

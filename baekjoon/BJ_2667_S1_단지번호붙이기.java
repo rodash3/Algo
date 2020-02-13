@@ -29,28 +29,9 @@ public class BJ_2667_S1_단지번호붙이기 {
 			}
 		}
 		
-//		Queue<dot> queue = new LinkedList<>();
 		for(int r=0; r<N; r++) {
 			for(int c=0; c<N; c++) {
 				if(map[r][c] == 1 && !visited[r][c]) {
-//					int cnt = 0;
-//					visited[r][c] = true;
-//					queue.offer(new dot(r, c));
-//					while (!queue.isEmpty()) {
-//						cnt++;
-//						int x = queue.peek().x;
-//						int y = queue.peek().y;
-//						queue.poll();
-//						for(int d=0; d<4; d++) {
-//							int nx = x + dx[d];
-//							int ny = y + dy[d];
-//							if(isIn(nx, ny) && map[nx][ny] == 1 && !visited[nx][ny]) {
-//								queue.offer(new dot(nx, ny));
-//								visited[nx][ny] = true;
-//							}
-//						}
-//					}
-//					list.add(cnt);
 					list.add(bfs(r, c));
 				}
 			}
