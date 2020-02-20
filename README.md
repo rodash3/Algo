@@ -3,6 +3,12 @@
 >[Baekjoon Online Judge](https://www.acmicpc.net/), [SW Expert Academy](https://swexpertacademy.com/main/main.do), [JUNGOL](http://www.jungol.co.kr/) 사이트의 문제를 자바를 사용해 풀이
 
 
+### Environment
+|Language|Version|IDE|
+|:---:|:---:|:---:|
+|Java|JDK 1.8|Eclipse|
+
+
 ## Baekjoon Online Judge
 > 문제 난이도는 풀었던 시점을 기준으로 SOLVED.AC에 의해 분류된 것을 기재한 것이며, 변동될 수 있습니다.
 * 3109번 빵집 (CHCI 2009) [문제 보기](https://www.acmicpc.net/problem/3109) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_3109_G2_%EB%B9%B5%EC%A7%91.java)
