@@ -3,7 +3,7 @@
 >[Baekjoon Online Judge](https://www.acmicpc.net/), [SW Expert Academy](https://swexpertacademy.com/main/main.do), [JUNGOL](http://www.jungol.co.kr/) 사이트의 문제를 자바를 사용해 풀이
 
 
-**Environment**
+* **Environment**
 |Language|Version|IDE|
 |:---:|:---:|:---:|
 |Java|JDK 1.8|Eclipse|
@@ -12,7 +12,7 @@
 ## Baekjoon Online Judge
 > 문제 난이도는 풀었던 시점을 기준으로 SOLVED.AC에 의해 분류된 것을 기재한 것이며, 변동될 수 있습니다.
 
-**Gold**
+### Gold
 * 3109번 빵집 (Olympiad CHCI 2009) [문제 보기](https://www.acmicpc.net/problem/3109) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_3109_G2_%EB%B9%B5%EC%A7%91.java)
 * 2206번 벽 부수고 이동하기 [문제 보기](https://www.acmicpc.net/problem/2206) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_2206_G4_%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java)
 * 14502번 연구소 [문제 보기](https://www.acmicpc.net/problem/14502) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_14502_G5_%EC%97%B0%EA%B5%AC%EC%86%8C.java)
