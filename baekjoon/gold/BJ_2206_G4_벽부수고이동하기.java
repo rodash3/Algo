@@ -7,6 +7,14 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ * @author rodash3
+ * @since 2020. 2.
+ * @see https://www.acmicpc.net/problem/2206
+ * @memory 107160 KB
+ * @time 608 ms
+ * @caution 벽을 부수었는지 안부수었는지 체크하기 위해 bfs 할 때 visited 배열을 3차원으로 구현
+ */
 public class BJ_2206_G4_벽부수고이동하기 {
 
 	static int N, M;
@@ -39,7 +47,7 @@ public class BJ_2206_G4_벽부수고이동하기 {
 		visited[0][0][1] = true;
 		int distance;
 		
-		if(0==N-1 && 0==M-1) {
+		if(0==N-1 && 0==M-1) { // 1 1\n 0 인 경우
 			System.out.println(1);
 			return;
 		}
@@ -79,7 +87,7 @@ public class BJ_2206_G4_벽부수고이동하기 {
 
 			} // for over
 		} // while over
-		System.out.println(-1);
+		System.out.println(-1); // 끝 점 도착이 불가능
 	}
 
 	static int[] dx = { 0, 0, 1, -1 };
@@ -100,14 +108,7 @@ public class BJ_2206_G4_벽부수고이동하기 {
 			this.y = y;
 			this.d = d;
 			this.isCrashed = isCrashed;
-		}
-
-		@Override
-		public String toString() {
-			return "Dot [x=" + x + ", y=" + y + ", d=" + d + ", isCrashed=" + isCrashed + "]";
-		}
-		
+		}	
 	}
 	
-
 }
