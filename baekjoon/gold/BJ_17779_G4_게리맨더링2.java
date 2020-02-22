@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 /**
  * @author rodash3
  * @since 2020. 2. 22.
- * @see https://www.acmicpc.net/problem/17779
+ * @see https://www.acmicpc.net/problem/17779 (백준 문제집> 삼성 SW 역량 테스트 기출 문제)
  * @memory 27140 KB
  * @time 268 ms
  * @caution 구역간의 범위 - 인덱스 체크 주의
