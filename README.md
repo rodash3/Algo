@@ -28,6 +28,14 @@
 
 
 ### Silver
+* 9372번 상근이의 여행 (ICPC BAPC 2013) [문제 보기](https://www.acmicpc.net/problem/9372) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_9372_S3_%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.java)
+* 7576번 토마토 (한국정보올림피아드 지역본선 2013 고등부) [문제 보기](https://www.acmicpc.net/problem/7576) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_7576_S1_%ED%86%A0%EB%A7%88%ED%86%A0.java)
+* 14891번 톱니바퀴 [문제 보기](https://www.acmicpc.net/problem/14891) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_14891_S1_%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java)
+* 14501번 퇴사 [문제 보기](https://www.acmicpc.net/problem/14501) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_14501_S4_%ED%87%B4%EC%82%AC.java)
+* 14889번 스타트와 링크 [문제 보기](https://www.acmicpc.net/problem/14889) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_14889_S3_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC.java)
+* 2178번 미로 탐색 [문제 보기](https://www.acmicpc.net/problem/2178) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2178_S1_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.java)
+* 2606번 바이러스 (한국정보올림피아드 지역본선 2004 초등부) [문제 보기](https://www.acmicpc.net/problem/2606) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2606_S2_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java)
+* 14888번 연산자 끼워넣기 [문제 보기](https://www.acmicpc.net/problem/14888) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_14888_S1_%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)
 
 
 ## SW Expert Academy
