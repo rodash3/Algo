@@ -1,7 +1,7 @@
 # Algo
 >알고리즘 문제 풀이 및 코드 관리  
 >[Baekjoon Online Judge](https://www.acmicpc.net/), [SW Expert Academy](https://swexpertacademy.com/main/main.do), [JUNGOL](http://www.jungol.co.kr/) 사이트의 문제를 자바를 사용해 풀이
-
+* update date : 20.03.04
 
 ### Environment
 |Language|Version|IDE|
@@ -13,7 +13,7 @@
 > 문제 난이도는 풀었던 시점을 기준으로 SOLVED.AC에 의해 분류된 것을 기재한 것이며, 변동될 수 있습니다.
 
 ### Gold
-* 3109번 빵집 (Olympiad CHCI 2009) [문제 보기](https://www.acmicpc.net/problem/3109) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_3109_G2_%EB%B9%B5%EC%A7%91.java)
+* 3109번 빵집 (Olympiad CHCI 2009 Juniors) [문제 보기](https://www.acmicpc.net/problem/3109) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_3109_G2_%EB%B9%B5%EC%A7%91.java)
 * 2206번 벽 부수고 이동하기 [문제 보기](https://www.acmicpc.net/problem/2206) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_2206_G4_%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java)
 * 14502번 연구소 [문제 보기](https://www.acmicpc.net/problem/14502) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_14502_G5_%EC%97%B0%EA%B5%AC%EC%86%8C.java)
 * 17471번 게리맨더링 [문제 보기](https://www.acmicpc.net/problem/17471) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_17471_G5_%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.java)
@@ -25,6 +25,9 @@
 * 15685번 드래곤 커브 [문제 보기](https://www.acmicpc.net/problem/15685) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_15685_G4_%EB%93%9C%EB%9E%98%EA%B3%A4%EC%BB%A4%EB%B8%8C.java)
 * 17140번 이차열 배열과 연산 [문제 보기](https://www.acmicpc.net/problem/17140) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_17140_G4_%EC%9D%B4%EC%B0%A8%EC%97%B4%EB%B0%B0%EC%97%B4%EA%B3%BC%EC%97%B0%EC%82%B0.java)
 * 17779번 게리 맨더링2 [문제 보기](https://www.acmicpc.net/problem/17779) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_17779_G4_%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%812.java)
+* 14499번 주사위 굴리기 [문제 보기](https://www.acmicpc.net/problem/14499) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_14499_G5_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
+* 17837번 새로운 게임2 [문제 보기](https://www.acmicpc.net/problem/17837) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_17837_G2_%EC%83%88%EB%A1%9C%EC%9A%B4%EA%B2%8C%EC%9E%842.java)
+* 15683번 감시 [문제 보기](https://www.acmicpc.net/problem/15683) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_15683_G5_%EA%B0%90%EC%8B%9C.java)
 
 
 ### Silver
@@ -36,6 +39,19 @@
 * 2178번 미로 탐색 [문제 보기](https://www.acmicpc.net/problem/2178) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2178_S1_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.java)
 * 2606번 바이러스 (한국정보올림피아드 지역본선 2004 초등부) [문제 보기](https://www.acmicpc.net/problem/2606) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2606_S2_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java)
 * 14888번 연산자 끼워넣기 [문제 보기](https://www.acmicpc.net/problem/14888) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_14888_S1_%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)
+* 1012번 유기농 배추 [문제 보기](https://www.acmicpc.net/problem/1012) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_1012_S1_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.java)
+* 10972번 다음 순열 [문제 보기](https://www.acmicpc.net/problem/10972) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_10972_S4_%EB%8B%A4%EC%9D%8C%EC%88%9C%EC%97%B4.java)
+* 11399번 ATM [문제 보기](https://www.acmicpc.net/problem/11399) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_11399_S3_ATM.java)
+* 11724번 연결 요소의 개수 [문제 보기](https://www.acmicpc.net/problem/11724) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_11724_S3_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98.java)
+* 11728번 배열 합치기 [문제 보기](https://www.acmicpc.net/problem/11728) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_11728_S5_%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.java)
+* 1260번 DFS와 BFS [문제 보기](https://www.acmicpc.net/problem/1260) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_1260_S1_DFS%EC%99%80BFS.java)
+* 1697번 숨바꼭질 (USACO US Open 2007 Contest) [문제 보기](https://www.acmicpc.net/problem/1697) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_1697_S1_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)
+* 1780번 종이의 개수 [문제 보기](https://www.acmicpc.net/problem/1780) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_1780_S2_%EC%A2%85%EC%9D%B4%EC%9D%98%EA%B0%9C%EC%88%98.java)
+* 2567번 색종이2 (한국정보올림피아드 지역본선 2007 중등부) [문제 보기](https://www.acmicpc.net/problem/2567) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2567_S5_%EC%83%89%EC%A2%85%EC%9D%B42.java)
+* 2667번 단지 번호 붙이기 (한국정보올림피아드 KOI 1996 초등부) [문제 보기](https://www.acmicpc.net/problem/2667) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_2667_S1_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
+* 3187번 양치기 꿍 (Oylmpiad CHCI 2005 Seniors) [문제 보기](https://www.acmicpc.net/problem/3187) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_3187_S2_%EC%96%91%EC%B9%98%EA%B8%B0%EA%BF%8D.java)
+* 7569번 토마토 (한국정보올림피아드 지역본선 2013 초등부) [문제 보기](https://www.acmicpc.net/problem/7569) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_7569_S1_3%EC%B0%A8%EC%9B%90%ED%86%A0%EB%A7%88%ED%86%A0.java)
+* 1120번 문자열 [문제 보기](https://www.acmicpc.net/problem/1120) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/silver/BJ_1120_S4_%EB%AC%B8%EC%9E%90%EC%97%B4.java)
 
 
 ## SW Expert Academy
