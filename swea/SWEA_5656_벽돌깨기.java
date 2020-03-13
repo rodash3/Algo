@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * @see https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo
  * @memory 100076 KB
  * @time 282 ms
- * @caution 중복순열을  구슬 떨어뜨릴 위치(열)를 뽑는다
+ * @caution 중복순열을 통해 구슬 떨어뜨릴 위치(열)를 뽑는다
  * 	뽑은 위치에 따라 구슬을 떨어뜨려 벽돌을 제거하고 빈공간을 내리는 작업을 N번 반복
  * 	다 떨어뜨린 후 각 경우마다 벽돌의 개수를 세어서 최솟값을 찾는다
  */
