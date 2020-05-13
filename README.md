@@ -1,7 +1,7 @@
 # Algo
 >알고리즘 문제 풀이 및 코드 관리  
 >[Baekjoon Online Judge](https://www.acmicpc.net/), [SW Expert Academy](https://swexpertacademy.com/main/main.do), [JUNGOL](http://www.jungol.co.kr/) 사이트의 문제를 자바를 사용해 풀이
-* update date : 20.03.14
+* update date : 20.04.20
 
 ### Environment
 |Language|Version|IDE|
@@ -30,6 +30,7 @@
 * 15683번 감시 [문제 보기](https://www.acmicpc.net/problem/15683) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_15683_G5_%EA%B0%90%EC%8B%9C.java)
 * 15686번 치킨 배달 [문제 보기](https://www.acmicpc.net/problem/15686) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_15686_G5_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.java)
 * 16236번 아기 상어 [문제 보기](https://www.acmicpc.net/problem/16236) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_16236_G5_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.java)
+* 4485번 녹색 옷 입은 애가 젤다지? [문제 보기](https://www.acmicpc.net/problem/4485) | [코드 보기](https://github.com/rodash3/Algo/blob/master/baekjoon/gold/BJ_4485_G4_%EB%85%B9%EC%83%89%EC%98%B7%EC%9E%85%EC%9D%80%EC%95%A0%EA%B0%80%EC%A0%A4%EB%8B%A4%EC%A7%80.java)
 
 
 ### Silver
@@ -66,6 +67,7 @@
 ### D5
 * 7793번 오! 나의 여신님 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG&categoryId=AWsBQpPqMNMDFARG&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D5/SWEA_7793_D5_%EC%98%A4%EB%82%98%EC%9D%98%EC%97%AC%EC%8B%A0%EB%8B%98.java)
 * 1247번 최적 경로 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D5/SWEA_1247_D5_%EC%B5%9C%EC%A0%81%EA%B2%BD%EB%A1%9C.java)
+* 6782번 현주가 좋아하는 제곱근 놀이 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgqsAlKr9sDFAW0&categoryId=AWgqsAlKr9sDFAW0&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D5/SWEA_6782_D5_%ED%98%84%EC%A3%BC%EA%B0%80%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%EC%A0%9C%EA%B3%B1%EA%B7%BC%EB%86%80%EC%9D%B4.java)
 
 
 ### D4
@@ -78,6 +80,10 @@
 * 1258번 행렬 찾기 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_1258_D4_%ED%96%89%EB%A0%AC%EC%B0%BE%EA%B8%B0.java)
 * 1861번 정사각형 방 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_1861_D4_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EB%B0%A9.java)
 * 7965번 퀴즈 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSh2IKmu0DFASy&categoryId=AWuSh2IKmu0DFASy&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_7965_D4_%ED%80%B4%EC%A6%88.java)
+* 7701번 염라대왕의 이름 정렬 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqU0zh6rssDFARG&categoryId=AWqU0zh6rssDFARG&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_7701_D4_%EC%97%BC%EB%9D%BC%EB%8C%80%EC%99%95%EC%9D%98%EC%9D%B4%EB%A6%84%EC%A0%95%EB%A0%AC.java)
+* 9659번 다항식 계산 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXCjsn0KJzcDFAX0&categoryId=AXCjsn0KJzcDFAX0&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_9659_D4_%EB%8B%A4%ED%95%AD%EC%8B%9D%EA%B3%84%EC%82%B0.java)
+* 6719번 성수의 프로그래밍 강좌 시청 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7sgDatsMDFAUh&categoryId=AWd7sgDatsMDFAUh&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_6719_D4_%EC%84%B1%EC%88%98%EC%9D%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B0%95%EC%A2%8C%EC%8B%9C%EC%B2%AD.java)
+* 1251번 하나로 [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE) | [코드 보기](https://github.com/rodash3/Algo/blob/master/swea/D4/SWEA_1251_D4_%ED%95%98%EB%82%98%EB%A1%9C_Kruskal.java) (Kruskal 풀이)
 
 
 ## JUNGOL
